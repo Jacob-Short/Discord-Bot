@@ -1,8 +1,7 @@
 import discord
 import random
 
-
-TOKEN = 'ODUyOTE4MDA4MzUxMDMxMzQ3.YMNzyw.S-WTVgVgH-G0lMauL1XD7RC2e3c'
+from databaseconfig import TOKEN
 
 client = discord.Client()
 
